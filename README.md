@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarioAlvn
 - 👀 I’m interested in coding, mainly focused on cibersecurity and AI automizations. 
-- 🌱 I’m currently learning Python and Japanese
-- 💞️ I’m trying to develop an AI based app.
+- 🌱 I’m currently learning Python and Java
+- 🔝 Reached a top 9 on my first hackathon (Talent4Cyber)
 - 📫 How to reach me via marioalv.prof@gmail.com
 
 <!---
