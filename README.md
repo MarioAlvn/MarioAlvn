@@ -17,7 +17,7 @@ Actualmente cursando el Grado en Ingeniería Informática del Software en Sevill
 
 **Trabajos**
 - Ofrezco soluciones digitales a negocios locales para aumentar su alcance y maximizar sus ventas.
-- Puedes ver un ejemplo [aquí](linkto:carta-tataoui.marioalvn.workers.dev)
+- Puedes ver un ejemplo [aquí](https://carta-tataoui.marioalvn.workers.dev)
 
 **Hablemos:**
 - Contacto profesional: [marioalv.prof@gmail.com](mailto:marioalv.prof@gmail.com)
