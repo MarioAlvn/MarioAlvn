@@ -15,6 +15,10 @@ Actualmente cursando el Grado en Ingeniería Informática del Software en Sevill
 - Ciberseguridad: Python, Bash, Kali Linux.
 - Bases de datos: SQL (MySQL, HeidiSQL)
 
+**Trabajos**
+- Ofrezco soluciones digitales a negocios locales para aumentar su alcance y maximizar sus ventas.
+- Puedes ver un ejemplo [aquí](carta-tataoui.marioalvn.workers.dev)
+
 **Hablemos:**
 - Contacto profesional: [marioalv.prof@gmail.com](mailto:marioalv.prof@gmail.com)
 - Basado en Sevilla, España.
