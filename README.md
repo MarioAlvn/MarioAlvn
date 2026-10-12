@@ -9,7 +9,7 @@ Actualmente cursando el Grado en Ingeniería Informática del Software en Sevill
 - Entusiasta de la ciberseguridad: **Top 9** en mi primer hackathon nacional (**Talent4Cyber**).
 - Ayudando a negocios locales a dar el salto al mundo digital.
 
-[![Ver Portfolio](https://img.shields.io/badge/🌐_VISITAR_MI_PORTFOLIO-marioalvn.me-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://marioalvn.me)
+[![Ver Portfolio](https://img.shields.io/badge/VISITAR_PORTFOLIO-marioalvn.me-18181b?style=for-the-badge&logo=safari&logoColor=white)](https://marioalvn.me)
 
 **Habilidades**
 - Desarrollo web: Next.js, React, Tailwind CSS, TypeScript.
